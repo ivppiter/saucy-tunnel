@@ -1,0 +1,4 @@
+node_modules/
+.vscode/
+**/*_rsa
+**/*_rsa.pub

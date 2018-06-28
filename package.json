@@ -1,0 +1,14 @@
+{
+  "name": "webdriver-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sauce-tunnel": "^2.5.0"
+  }
+}
